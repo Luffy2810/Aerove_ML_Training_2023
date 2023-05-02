@@ -6,3 +6,4 @@
 
 # Additional learning resources
 slides and more: https://github.com/SrirajBehera/Machine-Learning-Andrew-Ng
+matplotlib resources: https://matplotlib.org/cheatsheets/
